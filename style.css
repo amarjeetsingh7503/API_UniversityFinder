@@ -1,0 +1,39 @@
+body{
+    text-align: center;
+    background-color: #181D31;
+    font-family: "Poppins", sans-serif;
+}
+
+h1 {
+    color: #E8F9E9;
+    font-size: 3rem;
+}
+
+input {
+    width: 20rem;
+    padding: 0.5rem 0.5rem;
+    border-radius: 1rem;
+    margin-right: 1rem;
+}
+
+button {
+    width: 4.5rem;
+    padding: 0.5rem 0.5rem;
+    border-radius: 1rem;
+}
+
+#list{
+    text-align: left;
+    background-color: #1E2022;
+    color: aliceblue;
+    font-size: 0.9rem;
+    font-weight: 500;
+    margin: 2rem 20rem;
+    padding: 1rem 2rem;
+    border: 1px solid aliceblue;
+    border-radius: 1rem;
+}
+
+.links {
+    color: #4FBDBA;
+}
